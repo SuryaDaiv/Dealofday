@@ -1,0 +1,9 @@
+upgrading to react 17 as the project gave ue.ref is not a function error
+
+stipe payment could not be implemented as a child component. so implemented the required(order) component into stripe component.
+
+understood difference of creating states in functional component and class component.
+
+no need to use this to refernece to props in functional component
+
+
