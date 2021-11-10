@@ -27,6 +27,10 @@ class StorePicker extends React.Component {
           <option value="Electronics market">Electronics market</option>
         </select>
       </label>
+      <label>
+        Name:
+        <input type="text" name="name" />
+      </label>
       <button type="submit">Visit Store →</button>
     </form>
 
