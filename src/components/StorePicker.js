@@ -19,7 +19,7 @@ class StorePicker extends React.Component {
   render() {
     return (
       <form className="store-selector" onSubmit={this.goToStore}>
-      <h1>Choose the deal you want to see</h1>
+      <h1>Choose the what you want to see</h1>
       <label>
         <select required ref={this.myInput}>
           <option value="" selected></option>
