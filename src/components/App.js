@@ -123,7 +123,7 @@ class App extends React.Component {
         />
       <div className="catch-of-the-day">
         <div className="menu">
-          <Header tagline="Divya's Best Sourced Ecommerce" />
+          <Header tagline="Our Best Sourced Ecommerce" />
           <ul className="fishes">
             {Object.keys(this.state.fishes).map(key => (
               <Fish
